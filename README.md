@@ -103,4 +103,4 @@ If a chart is outside its allowed time, you’ll see a lock message like:
 ## 👨‍💻 Developed by
 
 **Your Name**  
-GitHub: [yourusername](https://github.com/hrishikeshpanchal)
+GitHub: [hrishikeshpanchal](https://github.com/hrishikeshpanchal)
