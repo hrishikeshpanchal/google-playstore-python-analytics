@@ -1,0 +1,7 @@
+pandas
+numpy
+plotly
+textblob
+nltk
+streamlit
+pytz
